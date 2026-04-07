@@ -25,7 +25,7 @@ GEMFemale3 = Run3.("GEM Female");
 WTFemale3 = Run3.("WT Female");
 WTMale3 = Run3.("WT Male");
 
-%% Plot the Temperatures 
+%% Plot the Movement Moments
 
 subplot(2, 2, 1)
 figure(1)
